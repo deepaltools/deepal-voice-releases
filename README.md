@@ -1,5 +1,7 @@
 # Deepal Voice
 
+### 📣 [Telegram-канал: @deepal_tools](https://t.me/deepal_tools) &nbsp;·&nbsp; ❤️ [Поддержать проект](https://t.me/tribute/app?startapp=dPI5)
+
 [![Последняя версия](https://img.shields.io/github/v/release/deepaltools/deepal-voice-releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=4FA3FF)](https://github.com/deepaltools/deepal-voice-releases/releases/latest)
 [![Скачиваний](https://img.shields.io/github/downloads/deepaltools/deepal-voice-releases/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=4ADE80)](https://github.com/deepaltools/deepal-voice-releases/releases)
 
